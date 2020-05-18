@@ -8,6 +8,7 @@ that this book can be your one-stop-shop in going from graphics beginner to Vulk
 ## Authors
 - Dylan Perks
 - Tyler Crandall
+- Vivian Jones
 - ...and possibly you? Feel free to submit a PR if you spot a mistake, or come [chat to us on Discord](https://discord.gg/mNfhagm)
 if you want to write a portion of the book.
 
