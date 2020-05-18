@@ -16,6 +16,3 @@ The primary author of this chapter is Vivian Jones. It will contain:
 - Transposition
 - Inversion
 
-- Introduction to quaternions
-- Conversions to quaternions from matrices and vice versa
-- Conversions to quaternions from axis-angle and vice versa
