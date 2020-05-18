@@ -1,18 +1,18 @@
 Chapter 3 - Mathematical principles
 
 The primary author of this chapter is Vivian Jones. It will contain:
-- Introduction to 3D and vectors
-- Dot & cross products
-- Calculating angles from vectors
 
-- Introduction to column-major and row-major matrices
-- Orthogonal matrices
-- Identity matrices
-- Scale matrices
+- Chapter opening/GLM setup
+
+- Introduction to vectors (Basic arithmetic)
+- Dot/Cross products
+- Calculating angles between vectors
+
+- Introduction to matrices (Basic arithmetic)
+- Row-major vs Column major, and transposition
+- Identity Matrices
 - Translation matrices
 - Rotation matrices
-- Perspective & orthographic projection matrices
-- Matrix arithmetic
-- Transposition
-- Inversion
-
+- Scale matrices
+- Projection matrices (Orthographic and Perspective)
+- Inversion & Orthoganal Matrices
