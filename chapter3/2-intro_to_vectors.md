@@ -12,4 +12,4 @@ Vectors can be of any size, but in graphics programming, only vectors of lengths
 
 Mathematic notation for vectors is as follows:
 
-[!Vector notation](images/2-vector_notation.svg)
+![Vector notation](images/2-vector_notation.svg)
