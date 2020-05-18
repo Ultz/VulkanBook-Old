@@ -12,7 +12,7 @@ hardware graphics and for a while this was enough.
 
 Then in 2013, everything changed when AMD released their Mantle API to the world, popularizing a whole other level of control. Mantle popularised the verbose style of APIs we're used to see pop up thes days, such as Microsoft's Direct3D 12, Sony's GNM, Nintendo/NVIDIA's NVN, Apple's Metal, and Khronos' Vulkan, to name a few.
 
-Vulkan is the spiritual successor to Mantle, which struggled to gain traction, being primarily only available on AMD hardware. Vulkan is an open standard and is open for implementation on any platform by any hardware manufacturer and, while some companies prefer to stick to their own exclusive APIs, Vulkan is pretty universally supported.
+Vulkan is the spiritual successor to Mantle, which struggled to gain traction being primarily only available on AMD hardware. Vulkan, on the other hand, is an open standard and is open for implementation on any platform by any hardware manufacturer and, while some companies prefer to stick totheir own exclusive APIs, Vulkan is pretty universally supported.
 
 This book aims to teach you about Vulkan and the fundamental concepts behind it. We decided to write this book because there
 wasn't a good way to grasp Vulkan without being well-versed in one of the higher-level APIs such as OpenGL, which isn't very productive if you have to learn another API just to learn Vulkan, and the only other alternative was paying a hefty premium
