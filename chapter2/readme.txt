@@ -11,3 +11,4 @@ The primary author of this chapter is Dylan Perks and Tyler Crandall. It will te
 - Queues
 - Command buffers
 - Buffers
+- Shaders
