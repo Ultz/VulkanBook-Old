@@ -1,4 +1,4 @@
-# A beginner's guide to Vulkan
+# A Beginner's Guide to Vulkan
 ## Summary
 This book is being built as a collaborative effort between a number of Vulkan community developers with the goal of providing
 a good book for beginners in a space otherwise filled with books assuming that their readers are well-versed in older graphics
