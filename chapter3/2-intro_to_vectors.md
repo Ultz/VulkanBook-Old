@@ -8,7 +8,7 @@ With GLM, you can create a vector as follows:
 vec4 vec(0.0f, 0.0f, 0.0f, 0.0f);
 ```
 
-Vectors can be of any size, but in graphics programming, only vectors of lengths 2 to 4 are commonly used, so those are the only ones included in GLM.
+Vectors can be of any size, but in graphics programming, only vectors of sizes 2 to 4 are commonly used, so those are the only ones included in GLM.
 
 Mathematic notation for vectors is as follows:
 
@@ -32,4 +32,4 @@ Vector operations are any operation that uses two vectors. The operation is appl
 
 ![Vector operations](images/2-vector_operation.svg)
 
-Vector operations are only allowed when both vectors are of the same length. For example, you can't add a vector with a length of 2 to a vector with a length of 4.
+Vector operations are only allowed when both vectors are of the same size. For example, you can't add a vector with a length of 2 to a vector with a size of 4.
