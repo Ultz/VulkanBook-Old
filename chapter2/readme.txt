@@ -1,4 +1,4 @@
-Chatper 2 - Graphics principles
+Chapter 2 - Graphics principles
 
 The primary author of this chapter is Dylan Perks. It will teach you about:
 - Normalized device coordinates
