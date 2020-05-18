@@ -1,4 +1,4 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International
 
 =======================================================================
 
