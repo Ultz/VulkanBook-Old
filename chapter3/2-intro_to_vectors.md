@@ -13,3 +13,5 @@ Vectors can be of any size, but in graphics programming, only vectors of lengths
 Mathematic notation for vectors is as follows:
 
 ![Vector notation](images/2-vector_notation.svg)
+
+In order, a vector's elements can be referred to as: X, Y, Z, and W. X, Y, and Z are positions in 3D space. W is different; it is known as the **homogenous vertex coordinate**. It isn't important for now, but will be discussed later.
