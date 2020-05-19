@@ -50,7 +50,7 @@ vec3 = vec1 + vec2;
 
 The length of a vector is something very important to know for several different reasons. The length of a vector is notated as follows:
 
-![Vector length notation](images/2-vector_length_notation.svg)
+<img src="images/2-vector_length_notation.svg" alt="X and Y as width/height" width="400" height="400">
 
 Luckily, it's not hard to figure out. You can think of the X and Y coordinates as being the height and width of a triangle, like so:
 
