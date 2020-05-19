@@ -48,4 +48,5 @@ Luckily, it's not hard to figure out. To get the length of a vector, you can use
 
 On paper, it looks like this:
 
-![Pythagorean Theorem](images/2-pythagorean_theorem)
+![Pythagorean Theorem](images/2-pythagorean_theorem.svg
+)
