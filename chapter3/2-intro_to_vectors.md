@@ -32,7 +32,7 @@ Vector operations are any operation that uses two vectors. The operation is appl
 
 ![Vector operations](images/2-vector_operation.svg)
 
-Vector operations are only allowed when both vectors are of the same size. For example, you can't add a vector with a size of 2 to a vector with a size of 4.
+Vector addition and subtraction work the same way, but multiplication (and division, which is a form of multiplication) are different; see 3.3: Vector Products. Vector operations are only allowed when both vectors are of the same size. For example, you can't add a vector with a size of 2 to a vector with a size of 4.
 
 ## Length of vectors
 
@@ -48,5 +48,12 @@ Luckily, it's not hard to figure out. To get the length of a vector, you can use
 
 On paper, it looks like this:
 
-![Pythagorean Theorem](images/2-pythagorean_theorem.svg
-)
+![Pythagorean Theorem](images/2-pythagorean_theorem.svg)
+
+## Unit vectors
+
+A unit vector is any vector whose length is exactly 1. Every vector has a non-zero unit vector, which can be found by dividing a vector by its length:
+
+![Finding unit vector](images/2-finding_unit_vector.svg)
+
+The unit vector is simple to find, but it has many uses.
