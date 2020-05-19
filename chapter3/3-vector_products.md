@@ -34,7 +34,7 @@ When used with two vectors that are orthogonal to each other, the resulting vect
 
 (Original image taken from Wikipedia and licensed under the public domain)
 
-![Cross product formula](images/3-cross_product_formula)
+![Cross product formula](images/3-cross_product_formula.svg)
 
 The cross-product formula is the first operation discussed that is not order-independent; B×A is not the same as A×B.
 
