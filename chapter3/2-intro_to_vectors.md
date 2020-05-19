@@ -52,7 +52,11 @@ The length of a vector is something very important to know for several different
 
 ![Vector length notation](images/2-vector_length_notation.svg)
 
-Luckily, it's not hard to figure out. To get the length of a vector, you can use what's known as the Pythagorean Theorem. This is a very simple operation, just do the following:
+Luckily, it's not hard to figure out. You can think of the X and Y coordinates as being the height and width of a triangle, like so:
+
+![Triangle](images/2-pythagorean_theorem_visual.svg)
+
+Using this example, the length would be the hypotenuse of the triangle. To find this, you can use what's known as the Pythagorean Theorem. This is a very simple operation, just do the following:
 
 1. Square all of the elements.
 2. Add all the elements together.
