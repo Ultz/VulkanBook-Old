@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 Over the past few decades, the computing industry has seen lots of graphics technology rise, thrive, and decline to make way for better graphics technology. The weird & wonderful world of graphic development is always changing, and it’s hard to keep up. The best example of this has been the recent debut of Vulkan.
 
