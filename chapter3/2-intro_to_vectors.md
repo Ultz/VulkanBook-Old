@@ -32,4 +32,20 @@ Vector operations are any operation that uses two vectors. The operation is appl
 
 ![Vector operations](images/2-vector_operation.svg)
 
-Vector operations are only allowed when both vectors are of the same size. For example, you can't add a vector with a length of 2 to a vector with a size of 4.
+Vector operations are only allowed when both vectors are of the same size. For example, you can't add a vector with a size of 2 to a vector with a size of 4.
+
+## Length of vectors
+
+The length of a vector is something very important to know for several different reasons. The length of a vector is notated as follows:
+
+![Vector length notation](images/2-vector_length_notation.svg)
+
+Luckily, it's not hard to figure out. To get the length of a vector, you can use what's known as the Pythagorean Theorem. This is a very simple operation, just do the following:
+
+1. Square all of the elements.
+2. Add all the elements together.
+3. Square root the result.
+
+On paper, it looks like this:
+
+![Pythagorean Theorem](images/2-pythagorean_theorem)
