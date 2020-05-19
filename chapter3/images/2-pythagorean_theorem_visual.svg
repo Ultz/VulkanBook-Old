@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="159.65666mm"
+   height="151.86761mm"
+   viewBox="0 0 159.65666 151.86761"
    version="1.1"
    id="svg3791"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="502.54953"
-     inkscape:cy="637.17175"
+     inkscape:zoom="0.35"
+     inkscape:cx="634.18784"
+     inkscape:cy="713.02929"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,11 @@
      inkscape:window-height="1016"
      inkscape:window-x="72"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
   <metadata
      id="metadata3788">
     <rdf:RDF>
@@ -51,14 +55,15 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-6.6036167,-146.12335)">
     <rect
        id="rect3797"
        width="5"
        height="177.78572"
        x="204.01833"
        y="9.8226118"
-       style="stroke-width:0.26458332;fill:#3100e4;fill-opacity:1"
+       style="fill:#3100e4;fill-opacity:1;stroke-width:0.26458332"
        transform="rotate(45)" />
     <rect
        id="rect3793"
@@ -66,7 +71,7 @@
        height="5"
        x="11.603617"
        y="276.92188"
-       style="stroke-width:0.41834295;fill:#eb4322;fill-opacity:1" />
+       style="fill:#eb4322;fill-opacity:1;stroke-width:0.41834295" />
     <rect
        id="rect3795"
        width="5"
@@ -76,7 +81,7 @@
        style="fill:#61b24b;fill-opacity:1;stroke-width:0.41885221" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3100e4;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3100e4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="54.790257"
        y="199.71388"
        id="text3801"><tspan
@@ -84,10 +89,10 @@
          id="tspan3799"
          x="54.790257"
          y="199.71388"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332;fill:#3100e4;fill-opacity:1;">C</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#3100e4;fill-opacity:1;stroke-width:0.26458332">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#61b24b;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#61b24b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="154.74905"
        y="216.81914"
        id="text3805"><tspan
@@ -95,10 +100,10 @@
          id="tspan3803"
          x="154.74905"
          y="216.81914"
-         style="stroke-width:0.26458332;fill:#61b24b;fill-opacity:1;">B</tspan></text>
+         style="fill:#61b24b;fill-opacity:1;stroke-width:0.26458332">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#eb4322;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#eb4322;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="73.76638"
        y="292.99097"
        id="text3809"><tspan
@@ -106,6 +111,6 @@
          id="tspan3807"
          x="73.76638"
          y="292.99097"
-         style="stroke-width:0.26458332;fill:#eb4322;fill-opacity:1;">A</tspan></text>
+         style="fill:#eb4322;fill-opacity:1;stroke-width:0.26458332">A</tspan></text>
   </g>
 </svg>
