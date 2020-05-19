@@ -6,7 +6,6 @@ The primary author of this chapter is Vivian Jones. It will contain:
 
 - Introduction to vectors (Basic arithmetic)
 - Dot/Cross products
-- Calculating angles between vectors
 
 - Introduction to matrices (Basic arithmetic)
 - Row-major vs Column major, and transposition
