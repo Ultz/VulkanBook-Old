@@ -26,6 +26,12 @@ Scalar operations refer to any operation that uses both a scalar (a single eleme
 
 It works exactly the same for subtraction, multiplication, and division.
 
+In GLM:
+
+```c++
+vec2 = vec1 + 3;
+```
+
 ## Vector operations
 
 Vector operations are any operation that uses two vectors. The operation is applied to each element of the vector (X with X, Y with Y, etc.).
@@ -33,6 +39,12 @@ Vector operations are any operation that uses two vectors. The operation is appl
 ![Vector operations](images/2-vector_operation.svg)
 
 Vector addition and subtraction work the same way, but multiplication (and division, which is a form of multiplication) are different; see 3.3: Vector Products. Vector operations are only allowed when both vectors are of the same size. For example, you can't add a vector with a size of 2 to a vector with a size of 4.
+
+In GLM:
+
+```c++
+vec3 = vec1 + vec2;
+```
 
 ## Length of vectors
 
@@ -50,10 +62,22 @@ On paper, it looks like this:
 
 ![Pythagorean Theorem](images/2-pythagorean_theorem.svg)
 
+In GLM:
+
+```c++
+glm::length(vec);
+```
+
 ## Unit vectors
 
-A unit vector is any vector whose length is exactly 1. Every vector has a non-zero unit vector, which can be found by dividing a vector by its length:
+A unit vector (sometimes called a normalized vector) is any vector whose length is exactly 1. Every vector has a non-zero unit vector, which can be found by dividing a vector by its length:
 
 ![Finding unit vector](images/2-finding_unit_vector.svg)
 
-The unit vector is simple to find, but it has many uses.
+The unit vector is simple to find, but it is used in many different formulas. One major one will be discussed in the next section.
+
+In GLM:
+
+```c++
+glm::normalize(vec);
+```
