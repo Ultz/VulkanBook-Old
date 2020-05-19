@@ -1,6 +1,6 @@
 Copyright (C) 2020 Ultz Limited
 
-Special thanks to Manuchi on Pixabay for the image used on the front cover! Used in accordance with the Pixabay License. 
+Special thanks to Manuchi on Pixabay for the image used on the front cover! Used in accordance with the Pixabay License.
 
 This book was written by Dylan Perks, Tyler Crandall, and Vivian Jones under the Ultz umbrella; with the generous help of an assortment of passionate community contributors listed below:
 
