@@ -54,7 +54,7 @@ The length of a vector is something very important to know for several different
 
 Luckily, it's not hard to figure out. You can think of the X and Y coordinates as being the height and width of a triangle, like so:
 
-<img src="images/2-vector_length_notation.svg" alt="X and Y as width/height" width="400" height="400">
+<img src="images/2-pythagorean_theorem_visual.svg" alt="X and Y as width/height" width="400" height="400">
 
 Using this example, the length would be the hypotenuse of the triangle. To find this, you can use what's known as the Pythagorean Theorem. This is a very simple operation, just do the following:
 
