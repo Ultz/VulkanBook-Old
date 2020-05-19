@@ -1,5 +1,5 @@
 # Rasterization
-With Vulkan, everything is in 3D space. However, you may notice that your screen is a 2D panel. A large part of Vulkan's job is transforming the 3D coordinates you give it onto a 2D frame. There are many ways to do this, but the most common method (and the method that Vulkan primarily uses) is called rasterization. This is where Vulkan takes your 3D coordinates, assembles shapes (usually triangles) according to your vertex data, places them onto a 2D grid of pixels (i.e. your screen), colouring the pixels according to your configuration.
+With Vulkan, everything is in 3D space. However, you may notice that your screen is a 2D panel. An enormous part of Vulkan’s job is transforming the 3D coordinates you give it into a 2D frame. There are many ways to do this, but the most common method (and the method that Vulkan primarily uses) is called rasterization. This is where Vulkan takes your 3D coordinates, assembles shapes (usually triangles) according to your vertex data, places them onto a 2D grid of pixels (i.e. your screen), colouring the pixels according to your configuration.
 
 ![A picture showing how the edges of a triangle are rasterized onto a grid of pixels](images/rasterization.png)
 
