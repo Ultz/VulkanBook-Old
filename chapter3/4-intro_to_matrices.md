@@ -16,6 +16,8 @@ Matrices are very important for graphics programming; matrices are how you can m
 
 ## Row-major vs. column-major
 
+Before you can learn anything about matrices, you need to understand matrix ordering.
+
 There is some debate as to how matrices should be laid out in memory. Matrices are made up of rows (horizontal) and columns (vertical). There are two different ways a matrix can be laid out: row-major, and column-major.
 
 In row-major, the index progresses from left to right, dropping down to the next row after reaching the end. In column-major matrices, the index progresses from top to bottom, moving right to the next column after reaching the end. To demonstrate:
@@ -31,3 +33,23 @@ In GLM, transposing is very easy:
 ```c++
 glm::transpose(matrix);
 ```
+
+## Matrix addition and subtraction
+
+Like vectors, matrix addition and subtraction are both done component-wise:
+
+![Matrix addition](images/4-matrix_addition.svg)
+
+Just like vectors, matrix addition and subtraction can only be done with matrices of the same size.
+
+Scalar operations also still work the same way:
+
+![Matrix addition with a scalar](images/4-matrix_addition_scalar.svg)
+
+## Matrix multiplication
+
+Matrices can be multiplied by a scalar the same way vectors can:
+
+![Matrix-scalar multiplication](images/4-matrix_multiplication_scalar.svg)
+
+Multiplication with a vector or another matrix is where matrices become more difficult, but also more useful. Like with vectors, component-wise matrix multiplication isn't possible. Unlike vectors, the dot product and cross product are not defined for matrices.
