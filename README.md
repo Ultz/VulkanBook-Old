@@ -12,6 +12,23 @@ if you want to write a portion of the book.
 ## The book
 The raw content that makes up the book is available completely free and under an open-source Creative Commons license. You are welcome to look through this repository and read the book as markdown. However, one of the ways you can support the authors of this book is by buying an official copy! Official copies are a lot easier to read compared to the raw markdown contained in this repository. You can buy it as a paperback or as a Kindle e-book using the following link: \<coming soon\>
 
+## Chapters
+1. Introduction
+2. Mathematics Principles
+3. Graphics Principles
+4. Initial Setup
+5. Shaders
+6. Pipelines
+7. Render Passes
+8. Drawing
+9. Project Guidance
+10. Textures
+11. Advanced Textures
+12. Mapping
+13. Instancing
+14. Tessellation
+15. TODO...
+
 ## License
 This book is licensed under the Creative Commons By-Attribution Non-Commercial No-Derivatives license. You're free to read,
 download, and copy the raw, unmodified content, giving the appropriate attribution and provided you don't sell the book or otherwise use it for commercial purposes. Ultz has granted itself an exemption from these clauses to enable us to sell the paperback and e-book copies.
