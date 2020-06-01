@@ -1,3 +1,5 @@
+# NOTE: The book has migrated to use LaTeX. As part of this move, we recreated the repo. Find the new repo here: https://github.com/Ultz/VulkanBook
+
 # A Beginner's Guide to Vulkan
 ## Summary
 This book is being built as a collaborative effort between a number of Vulkan community developers with the goal of providing a good book for beginners in a space otherwise filled with books assuming that their readers are well-versed in older graphics APIs such as OpenGL and Direct3D 11. In this book, we aim to build and consolidate both graphics theory and Vulkan skills, so that this book can be your one-stop-shop in going from graphics beginner to Vulkan fluency.
